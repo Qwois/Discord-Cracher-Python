@@ -3,7 +3,7 @@
 The most common discord crusher, with basic functions
 _____
 
-How to install and start up:
+*How to install and start up:*
 
 Paste into the command line ( pip install discord.py )
 
