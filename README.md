@@ -5,7 +5,6 @@ _____
 
 How to install and start up:
 
-
 *Paste into the command line ( pip install discord.py )
 
 
@@ -13,8 +12,11 @@ How to install and start up:
 
 
 *Run bat file
+
 ![image](https://user-images.githubusercontent.com/69690887/176689847-cb035873-c28c-4cb1-ab36-51d85ec5027c.png)
+
 
 *Where to get a token? I'll prompt!
 
-
+![image](https://user-images.githubusercontent.com/69690887/176691667-5bdfcd49-489c-46c0-b181-6fb5c2ff5cf8.png)
+https://discord.com/developers/applications
