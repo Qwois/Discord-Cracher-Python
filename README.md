@@ -35,3 +35,9 @@ Next bot tab
 
 ![image](https://user-images.githubusercontent.com/69690887/176693180-f2fccd7b-a238-4190-99dd-ab9a4677cd0a.png)
 
+
+_____
+
+And here is your token!
+
+![image](https://user-images.githubusercontent.com/69690887/176693544-635e68f0-d078-4a73-b669-f3042c05ffe1.png)
