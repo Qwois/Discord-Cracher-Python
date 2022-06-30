@@ -36,14 +36,19 @@ https://discord.com/developers/applications
 
 _____
 
-And here is your token!
+##And here is your token!
 
 ![image](https://user-images.githubusercontent.com/69690887/176693544-635e68f0-d078-4a73-b669-f3042c05ffe1.png)
 
-Next, you paste your token into this text file
+##Next, you paste your token into this text file
 
 ![image](https://user-images.githubusercontent.com/69690887/176693984-efbec881-1e2e-467f-bcc9-1b3eb0516821.png)
 
-Bot setup:
+##Bot setup:
 
 ![image](https://user-images.githubusercontent.com/69690887/176694888-7c66a41d-2c15-476d-896f-ad505d94a200.png)
+
+![image](https://user-images.githubusercontent.com/69690887/176695283-3fa9600e-3f78-4177-a9bd-f8f3035e9368.png)
+
+![image](https://user-images.githubusercontent.com/69690887/176695441-d9c65506-7dc0-4fc8-b236-271da6991d2e.png)
+
