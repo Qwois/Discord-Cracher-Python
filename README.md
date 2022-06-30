@@ -52,3 +52,6 @@ _____
 
 ![image](https://user-images.githubusercontent.com/69690887/176695441-d9c65506-7dc0-4fc8-b236-271da6991d2e.png)
 
+##Then you add the bot to the server, write to any text chat on the server, for example:
+####!!!kill
+##And your joke worked
