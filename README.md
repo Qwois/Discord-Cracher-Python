@@ -19,4 +19,5 @@ How to install and start up:
 *Where to get a token? I'll prompt!
 
 ![image](https://user-images.githubusercontent.com/69690887/176691667-5bdfcd49-489c-46c0-b181-6fb5c2ff5cf8.png)
+
 https://discord.com/developers/applications
