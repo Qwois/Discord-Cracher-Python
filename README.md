@@ -44,3 +44,6 @@ Next, you paste your token into this text file
 
 ![image](https://user-images.githubusercontent.com/69690887/176693984-efbec881-1e2e-467f-bcc9-1b3eb0516821.png)
 
+Bot setup:
+
+![image](https://user-images.githubusercontent.com/69690887/176694888-7c66a41d-2c15-476d-896f-ad505d94a200.png)
