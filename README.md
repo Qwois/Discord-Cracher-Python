@@ -12,4 +12,7 @@ How to install and start up:
 *Run bat file
 ![image](https://user-images.githubusercontent.com/69690887/176689847-cb035873-c28c-4cb1-ab36-51d85ec5027c.png)
 
+*Token 
+Where to get a token? I'll prompt!
+
 
