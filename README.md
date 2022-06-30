@@ -23,3 +23,9 @@ Where to get a token? I'll prompt!
 https://discord.com/developers/applications
 
 ![image](https://user-images.githubusercontent.com/69690887/176691990-1e637561-ffeb-43f3-aa26-c8627afe8c13.png)
+
+
+
+*After creating the bot, we proceed to receive the token
+
+![image](https://user-images.githubusercontent.com/69690887/176692106-e6cc6c5e-4b3f-4f71-a263-e0d38fb21477.png)
