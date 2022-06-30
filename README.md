@@ -33,6 +33,9 @@ https://discord.com/developers/applications
 
 Next bot tab
 
+
+![image](https://user-images.githubusercontent.com/69690887/176693949-ce9895f6-9ddd-4cdf-8931-266838b54531.png)
+
 ![image](https://user-images.githubusercontent.com/69690887/176693180-f2fccd7b-a238-4190-99dd-ab9a4677cd0a.png)
 
 
@@ -41,3 +44,8 @@ _____
 And here is your token!
 
 ![image](https://user-images.githubusercontent.com/69690887/176693544-635e68f0-d078-4a73-b669-f3042c05ffe1.png)
+
+Next, you paste your token into this text file
+
+![image](https://user-images.githubusercontent.com/69690887/176693984-efbec881-1e2e-467f-bcc9-1b3eb0516821.png)
+
