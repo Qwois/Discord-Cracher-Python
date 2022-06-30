@@ -26,6 +26,6 @@ https://discord.com/developers/applications
 
 
 
-*After creating the bot, we proceed to receive the token
+After creating the bot, we proceed to receive the token
 
 ![image](https://user-images.githubusercontent.com/69690887/176692106-e6cc6c5e-4b3f-4f71-a263-e0d38fb21477.png)
